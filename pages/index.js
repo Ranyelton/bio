@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Bem-vindo ao Next.js!</title>
+        <title>Home - Links Ranyelton</title>
         <meta name="description" content="Página de boas-vindas do Next.js" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
